@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\bin\Debug\WindowsUpdate.exe.config
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\bin\Debug\WindowsUpdate.exe
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\bin\Debug\WindowsUpdate.pdb
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.Main.resources
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.exe
+C:\Users\PC\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.pdb

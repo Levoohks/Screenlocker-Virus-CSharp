@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Unloader\Unloader\bin\Debug\Unloader.exe.config
+C:\Users\PC\source\repos\Unloader\Unloader\bin\Debug\Unloader.exe
+C:\Users\PC\source\repos\Unloader\Unloader\bin\Debug\Unloader.pdb
+C:\Users\PC\source\repos\Unloader\Unloader\obj\Debug\Unloader.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Unloader\Unloader\obj\Debug\Unloader.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Unloader\Unloader\obj\Debug\Unloader.exe
+C:\Users\PC\source\repos\Unloader\Unloader\obj\Debug\Unloader.pdb
